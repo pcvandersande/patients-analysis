@@ -1,6 +1,6 @@
 import sys
 
-#test
+
 """This module counts the number of lines in standard input
 Input: any string from system standard input"""
 
